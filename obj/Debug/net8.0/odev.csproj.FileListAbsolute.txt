@@ -1,0 +1,15 @@
+c:\Users\defeatedbynone\Desktop\ODTU\odev\bin\Debug\net8.0\odev.exe
+C:\Users\defeatedbynone\Desktop\ODTU\odev\bin\Debug\net8.0\odev.deps.json
+C:\Users\defeatedbynone\Desktop\ODTU\odev\bin\Debug\net8.0\odev.runtimeconfig.json
+c:\Users\defeatedbynone\Desktop\ODTU\odev\bin\Debug\net8.0\odev.dll
+c:\Users\defeatedbynone\Desktop\ODTU\odev\bin\Debug\net8.0\odev.pdb
+c:\Users\defeatedbynone\Desktop\ODTU\odev\obj\Debug\net8.0\odev.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\defeatedbynone\Desktop\ODTU\odev\obj\Debug\net8.0\odev.AssemblyInfoInputs.cache
+c:\Users\defeatedbynone\Desktop\ODTU\odev\obj\Debug\net8.0\odev.AssemblyInfo.cs
+c:\Users\defeatedbynone\Desktop\ODTU\odev\obj\Debug\net8.0\odev.csproj.CoreCompileInputs.cache
+c:\Users\defeatedbynone\Desktop\ODTU\odev\obj\Debug\net8.0\odev.sourcelink.json
+c:\Users\defeatedbynone\Desktop\ODTU\odev\obj\Debug\net8.0\odev.dll
+c:\Users\defeatedbynone\Desktop\ODTU\odev\obj\Debug\net8.0\refint\odev.dll
+c:\Users\defeatedbynone\Desktop\ODTU\odev\obj\Debug\net8.0\odev.pdb
+C:\Users\defeatedbynone\Desktop\ODTU\odev\obj\Debug\net8.0\odev.genruntimeconfig.cache
+C:\Users\defeatedbynone\Desktop\ODTU\odev\obj\Debug\net8.0\ref\odev.dll
